@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/mccartheney)
-- Live Site URL: [Live Site](https://roaring-florentine-5587d1.netlify.app/)
+- Solution URL: [Solution](https://roaring-florentine-5587d1.netlify.app/)
+- Live Site URL: [Live Site](https://github.com/mccartheney)
 
 
 ### Built with
