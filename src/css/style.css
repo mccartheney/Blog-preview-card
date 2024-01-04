@@ -53,6 +53,7 @@ body {
 
 .content .image img {
     border-radius: 10px;
+    width: 100%;
 }
 
 .subtitle {
@@ -120,9 +121,6 @@ h3 {
     }
 
     .image {
-        width: 80%;
-    }
-    .image img {
-        width: 310px;
+        width: 100%;
     }
 }
